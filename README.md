@@ -1,4 +1,3 @@
 # Java_project
-Dự án java web sử dụng framework java spring boot
+Dự án java web sử dụng framework java spring boot theo mô hình mvc
 
-STEP 1 : Download Spring tool suite
